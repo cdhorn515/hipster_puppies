@@ -96,7 +96,8 @@ h1 {
 }
 .callout-wrapper {
   padding: 25px 0;
-  background-color: #43996a;
+  background-image: url(http://forums.mtbr.com/attachments/california-norcal/613771d1305165012-sick-hipsters-fixed_gear_bike_poseur_by_jesse_k.jpg);
+  background-size: contain;
 }
 .contact-wrapper {
   text-align: center;
