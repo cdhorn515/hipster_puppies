@@ -37,7 +37,7 @@ h1 {
   font-family: 'Oleo Script', 'Helvetica', sans-serif;
   font-size: 40px;
   font-weight: normal;
-  margin: 0;
+  margin: 30px;
   padding: 166px 0 55px 0;
   color: blue;
   text-shadow: 3px 3px 4px rgba(0,0,0,.90);
@@ -77,16 +77,16 @@ h1 {
 }
 .site-imgs ul {
   margin-bottom: 24px;
-  text-align: center;
+  text-align: left;
 }
 #left-img {
-  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmRf3-JkwqfU%2Fhqdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmRf3-JkwqfU&docid=e8mED6mQy8GclM&tbnid=Ywonn04NuQeynM%3A&vet=10ahUKEwidlvyalZ3UAhUEfiYKHdtRD5oQMwh-KAswCw..i&w=480&h=360&bih=567&biw=1026&q=puppy%20pictures&ved=0ahUKEwidlvyalZ3UAhUEfiYKHdtRD5oQMwh-KAswCw&iact=mrc&uact=8');
+  background-image: url('https://thewondrous.com/wp-content/uploads/2015/02/adopt-a-puppy.jpg');
 }
 #middle-img {
-  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F02%2F05%2F12%2F09%2Fchihuahua-624924_960_720.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fen%2Fphotos%2Fpuppy%2F&docid=grPLJW6CDbErpM&tbnid=JVdbFjRE9qa9oM%3A&vet=10ahUKEwidlvyalZ3UAhUEfiYKHdtRD5oQMwh6KAcwBw..i&w=960&h=640&bih=567&biw=1026&q=puppy%20pictures&ved=0ahUKEwidlvyalZ3UAhUEfiYKHdtRD5oQMwh6KAcwBw&iact=mrc&uact=8');
+  background-image: url('https://thewondrous.com/wp-content/uploads/2015/02/adopt-a-puppy.jpg');
 }
 #right-img {
-  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiboLe-lZ3UAhWDZiYKHTxeA9EQjRwIBw&url=https%3A%2F%2Fgiphy.com%2Fsearch%2Fpuppy&psig=AFQjCNFrLrfnJbnoVdWxG2oMkgJOHN5iuQ&ust=1496424340246440');
+  background-image: url('https://thewondrous.com/wp-content/uploads/2015/02/adopt-a-puppy.jpg');
 }
 .callout-msg,
 .contact-msg,
